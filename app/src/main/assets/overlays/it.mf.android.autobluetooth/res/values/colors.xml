@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#ff000000</color>
+	<color name="mid_dark_gray">#ff000000</color>
+	<color name="card_background">#ff5b97f6</color>
+</resources>

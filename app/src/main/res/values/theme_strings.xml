@@ -1,0 +1,8 @@
+<resources>
+    <string name="ThemeName">Black/Pixel Apps</string>
+    <string name="ThemeAuthor">ohayoubaka</string>
+    <string-array name="ThemeChangelog">
+        <item>1.0</item>
+        <item>Black/Pixel Apps</item>
+    </string-array>
+</resources>

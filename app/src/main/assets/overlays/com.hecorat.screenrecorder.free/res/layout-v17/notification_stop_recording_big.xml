@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" android:layout_marginStart="15.0dip" android:layout_marginEnd="20.0dip">
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@null" android:contentDescription="@null" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="6.0">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" android:layout_marginBottom="15.0dip">
+            <TextView android:textColor="#ffffffff" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@null" />
+            <TextView android:textColor="@null" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@null" />
+        </LinearLayout>
+        <LinearLayout android:background="@android:color/holo_blue_bright" android:layout_width="fill_parent" android:layout_height="0.5dip" android:alpha="0.5" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false">
+            <LinearLayout android:gravity="center_horizontal" android:id="@null" android:background="@null" android:paddingTop="@null" android:paddingBottom="@null" android:clickable="true" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_margin="@null" android:layout_weight="1.0">
+                <TextView android:textSize="@null" android:textColor="@null" android:ellipsize="end" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@null" android:maxLines="1" android:drawableTop="@null" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center_horizontal" android:id="@null" android:background="@null" android:paddingTop="@null" android:paddingBottom="@null" android:clickable="true" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_margin="@null" android:layout_weight="1.0">
+                <TextView android:textSize="@null" android:textColor="@null" android:ellipsize="end" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@null" android:maxLines="1" android:drawableTop="@null" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center_horizontal" android:id="@null" android:background="@null" android:paddingTop="@null" android:paddingBottom="@null" android:clickable="true" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_margin="@null" android:layout_weight="1.0">
+                <TextView android:textSize="@null" android:textColor="@null" android:ellipsize="end" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@null" android:maxLines="1" android:drawableTop="@null" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="color_primary">#ff000000</color>
+    <color name="color_primary_dark">#ff000000</color>
+	<color name="text_color_dark">#ff5b97f6</color>
+	<color name="cardview_light_background">#ff000000</color>
+	<color name="background_floating_material_light">#ff000000</color>
+	<color name="text_color_semi_light">#ffaaaaaa</color>
+	<color name="design_snackbar_background_color">#ff000000</color>
+	<color name="bright_foreground_disabled_material_light">#ff5b97f6</color>
+	<color name="material_deep_teal_200">#ff5b97f6</color>
+    <color name="material_deep_teal_500">#ff5b97f6</color>
+</resources>
