@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="haf_primary">#ff000000</color>
-    <color name="haf_primary_dark">#ff000000</color>
 	<color name="haf_bg_ultra_light">#ff000000</color>
 	<color name="haf_color_SCROLLBG">#ff000000</color>
     <color name="haf_color_SPLASHBG">#ff000000</color>

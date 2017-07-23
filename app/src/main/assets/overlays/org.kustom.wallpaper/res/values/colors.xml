@@ -18,4 +18,6 @@
 	<color name="md_light_dividers">#ff000000</color>
 	<color name="kustom_light_divider">#ff000000</color>
 	<color name="md_dark_dividers">#ff000000</color>
+	<color name="black25PercentColor">#ff000000</color>
+	<color name="kustom_light_primary_dark">#ff000000</color>
 </resources>

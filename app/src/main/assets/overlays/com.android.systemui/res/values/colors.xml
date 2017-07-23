@@ -25,15 +25,15 @@
     <color name="material_grey_50">#ff5e97f6</color>
     <color name="material_deep_teal_200">#ff5e97f6</color>
     <color name="material_deep_teal_500">#ff5e97f6</color>
-    <color name="navigation_bar_icon_color">#ff5e97f6</color>
-    <color name="light_navigation_bar_icon_color">#ff5e97f6</color>
-    <color name="dark_navigation_bar_white_icon_color">#ff5e97f6</color>
-    <color name="dark_navigation_bar_icon_color">#ff5e97f6</color>
-    <color name="navigation_bar_icon_color_top_bound">#ff5e97f6</color>
-    <color name="navigation_bar_icon_color_high_bound">#ff5e97f6</color>
-    <color name="navigation_bar_icon_color_mid_bound">#ff5e97f6</color>
-    <color name="navigation_bar_icon_color_low_bound">#ff5e97f6</color>
-    <color name="dark_navigation_bar_icon_color_lockscreen">#ff5e97f6</color>
+    <color name="navigation_bar_icon_color">#ffffffff</color>
+    <color name="light_navigation_bar_icon_color">#ffffffff</color>
+    <color name="dark_navigation_bar_white_icon_color">#ffffffff</color>
+    <color name="dark_navigation_bar_icon_color">#ffffffff</color>
+    <color name="navigation_bar_icon_color_top_bound">#ffffffff</color>
+    <color name="navigation_bar_icon_color_high_bound">#ffffffff</color>
+    <color name="navigation_bar_icon_color_mid_bound">#ffffffff</color>
+    <color name="navigation_bar_icon_color_low_bound">#ffffffff</color>
+    <color name="dark_navigation_bar_icon_color_lockscreen">#ffffffff</color>
     <color name="keyguard_overflow_content_color">#ff5e97f6</color>
     <color name="accent_material_light">#ff5e97f6</color>
     <color name="accent_material_dark">#ff5e97f6</color>
@@ -209,4 +209,6 @@
     <color name="qs_tile_label">#ffe7e7e7</color>
     <color name="qs_detail_label_color">#ffc8c8c8</color>
     <color name="qs_detail_item_device_icon_tint_color">#ffffffff</color>
+	<color name="backup_default_theme_textclock_color">#00000000</color>
+	<color name="backup_default_theme_clock_date_color">#00000000</color>
 </resources>
