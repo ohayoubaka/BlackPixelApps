@@ -4,8 +4,8 @@
 	<color name="locationbar_bg_color">#ff000000</color>
 	<color name="locationbar_stroke_color">#ff000000</color>
 	<color name="locationbar_divider_color">#ff000000</color>
-	<color name="toolbar_url_hint_text_color">#ffffffff</color>
-	<color name="toolbar_url_text_color">#ffffffff</color>
+	<color name="toolbar_url_hint_text_color">#aa5b97f6</color>
+	<color name="toolbar_url_text_color">#ff5b97f6</color>
 	<color name="toolbar_bg_color">#ff000000</color>
     <color name="toolbar_statusbar_color">#ff000000</color>
 	<color name="toolbar_statusbar_color_dark">#ff000000</color>
@@ -24,7 +24,6 @@
 	<color name="tab_manager_bottom_divider">#ff000000</color>
 	<color name="tab_manager_bottombar_bg_color">#ff000000</color>
 	<color name="tab_manager_bottombar_text_color">#ffffffff</color>
-	<color name="bottombar_text_color">#ff5b97f6</color>
 	<color name="toolbar_option_menu_list_text_color">#ffffffff</color>
 	<color name="no_result_bg_color">#cc000000</color>
 	<color name="find_on_page_text_color">#fffafafa</color>
@@ -59,4 +58,9 @@
 	<color name="quickaccess_icon_view_item_container_background_solid_color">#ff000000</color>
 	<color name="color_white">#ff000000</color>
 	<color name="tab_open_animation_background_color">#ff000000</color>
+	<color name="material_grey_900">#ffffffff</color>
+	<color name="iris_preview_background">#ff000000</color>
+	<color name="background_material_light">#ff000000</color>
+	<color name="bottombar_icon_color">#ff5b97f6</color>
+	<color name="bottombar_text_color">#aa5b97f6</color>
 </resources>
