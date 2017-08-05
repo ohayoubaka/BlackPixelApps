@@ -5,11 +5,4 @@
         <item name="android:shadowDy">2.0</item>
         <item name="android:shadowRadius">2.0</item>
     </style>
-	<style name="TextAppearance.StatusBar.Expanded.Clock" parent="@style/TextAppearance.StatusBar.Expanded">
-        <item name="android:textSize">@dimen/qs_time_expanded_size</item>
-        <item name="android:fontFamily">sans-serif-medium</item>
-    </style>
-    <style name="TextAppearance.StatusBar.Expanded.Date" parent="@style/TextAppearance.StatusBar.Expanded">
-        <item name="android:fontFamily">sans-serif-medium</item>
-    </style>
 </resources>
