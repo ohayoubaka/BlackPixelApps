@@ -4,10 +4,10 @@
     <color name="material_grey_900">#ff000000</color>
     <color name="md_grey_850">#ff000000	</color>
     <color name="md_grey_900">#ff000000</color>
-	<color name="md_dark_dividers">#ff000000</color>
-	<color name="md_divider_black">#ff000000</color>
-	<color name="md_divider_white">#ff000000</color>
-	<color name="md_light_dividers">#ff000000</color>
+	<color name="md_dark_dividers">#00000000</color>
+	<color name="md_divider_black">#00000000</color>
+	<color name="md_divider_white">#00000000</color>
+	<color name="md_light_dividers">#00000000</color>
 	<color name="material_grey_800">#ff000000</color>
 	<color name="md_grey_800">#ff000000</color>
 </resources>

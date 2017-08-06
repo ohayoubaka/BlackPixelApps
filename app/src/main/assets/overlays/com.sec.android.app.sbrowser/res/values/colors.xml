@@ -62,7 +62,7 @@
     <color name="iris_preview_background">#ff000000</color>
     <color name="background_material_light">#ff000000</color>
     <color name="bottombar_icon_color">#ff5b97f6</color>
-    <color name="bottombar_text_color">#ffffffff</color>
+    <color name="bottombar_text_color">#aa5b97f6</color>
 	<color name="quickaccess_dialog_edit_text_color_hint">#995b97f6</color>
 	<color name="edit_bookmark_dialog_edit_text_color_hint">#995b97f6</color>
 	<color name="quickaccess_dialog_edit_text_color">#ff5b97f6</color>
