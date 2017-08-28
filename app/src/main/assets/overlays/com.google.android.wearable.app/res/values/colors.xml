@@ -30,4 +30,15 @@
     <color name="tooltip_background_light">#ff000000</color>
 	<color name="buttonbar_bg">#ff5b97f6</color>
 	<color name="button_material_light">#ff5b97f6</color>
+	<color name="setup_background">#ff000000</color>
+	<color name="status_fragment_section_header_color">#ff5b97f6</color>
+	<color name="watch_face_unselected_background">#ff000000</color>
+	<color name="watch_face_dark_gray_text">#ffffffff</color>
+	<color name="status_fragment_services_title_color">#ffffffff</color>
+	<color name="setup_text_color">#ff5b97f6</color>
+	<color name="primary_text_default_material_light">#ffffffff</color>
+	<color name="primary_text_disabled_material_light">#ffffffff</color>
+	<color name="secondary_text_default_material_light">#ffffffff</color>
+	<color name="secondary_text_disabled_material_light">#ffffffff</color>
+	<color name="material_grey_50">#ff000000</color>
 </resources>

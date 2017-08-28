@@ -15,10 +15,10 @@
 	<color name="quantum_amber50">#fffff8e1</color>
 	<color name="material_grey_50">#ff000000</color>
 	<color name="material_grey_100">#ff000000</color>
-	<color name="default_bg">#ffffffff</color>
-	<color name="sheet_tab_strip">#ffffffff</color>
+	<color name="default_bg">#ff000000</color>
+	<color name="sheet_tab_strip">#ff000000</color>
 	<color name="text_default">#ffffffff</color>
-	<color name="text_normal">#ffffff</color>
+	<color name="text_normal">#ffffffff</color>
 	<color name="quantum_yellow50">#fffffde7</color>
 	<color name="quantum_vanillared50">#ffffebee</color>
 	<color name="quantum_vanillagreen50">#ffe8f5e9</color>
@@ -39,4 +39,5 @@
     <color name="text_black_54_percent">#89ffffff</color>
     <color name="text_black_87_percent">#ddffffff</color>
 	<color name="cardview_light_background">#ff000000</color>
+	<color name="ink_menu_bg">#ff000000</color>
 </resources>
