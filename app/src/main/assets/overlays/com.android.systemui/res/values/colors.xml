@@ -93,7 +93,7 @@
     <color name="notification_panel_bg_dim_color">#80000000</color>
     <color name="notification_panel_theme_ripple_color">#ff5e97f6</color>
     <color name="qs_tile_icon_on_dim_tint_color">#ff5e97f6</color>
-    <color name="qs_tile_icon_off_tint_color">#93ffffff</color>
+    <color name="qs_tile_icon_off_tint_color">#935e97f6</color>
     <color name="tw_quick_panel_quick_setting_button_round_bg">#00ffffff</color>
     <color name="status_bar_date_clock_color">#ff5e97f6</color>
     <color name="status_bar_date_color">#ff5e97f6</color>
@@ -200,13 +200,13 @@
     <color name="notification_guts_text_color">#b2ffffff</color>
     <color name="tw_ic_audio_sound_icon_muted_color">#ff5e97f6</color>
     <color name="tw_ic_audio_sound_icon_earshock_color">#ff5e97f6</color>
-    <color name="qs_header_setting">#ff5e97f6</color>
-    <color name="qs_header_expand">#ff5e97f6</color>
-    <color name="qs_header_clock">#ff5e97f6</color>
+    <color name="qs_header_setting">#ffffffff</color>
+    <color name="qs_header_expand">#ffffffff</color>
+    <color name="qs_header_clock">#ffffffff</color>
     <color name="qs_detail_description_text_color">#ff5e97f6</color>
     <color name="qs_detail_hyperlink_text_color">#ff5e97f6</color>
-    <color name="qs_header_date">#ffe7e7e7</color>
-    <color name="qs_tile_label">#ffe7e7e7</color>
+    <color name="qs_header_date">#ffffffff</color>
+    <color name="qs_tile_label">#ffffffff</color>
     <color name="qs_detail_label_color">#ffc8c8c8</color>
     <color name="qs_detail_item_device_icon_tint_color">#ffffffff</color>
 	<color name="backup_default_theme_textclock_color">#00000000</color>
