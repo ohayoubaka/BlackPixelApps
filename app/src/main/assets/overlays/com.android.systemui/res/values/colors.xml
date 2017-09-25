@@ -40,7 +40,7 @@
     <color name="system_notification_accent_color">#ff5e97f6</color>
     <color name="summary_notification_icon_tint_color">#ff5e97f6</color>
     <color name="notificard_ic_close_tint_color">#ff000000</color>
-    <color name="more_cue_tint_color_for_whitebackground">#ff5e97f6</color>
+    <color name="more_cue_tint_color_for_whitebackground">#ff000000</color>
     <color name="primary_text_default_material_light">#ffffffff</color>
     <color name="secondary_text_default_material_light">#ffffffff</color>
     <color name="primary_text_default_material_dark">#ffffffff</color>
@@ -93,7 +93,7 @@
     <color name="notification_panel_bg_dim_color">#80000000</color>
     <color name="notification_panel_theme_ripple_color">#ff5e97f6</color>
     <color name="qs_tile_icon_on_dim_tint_color">#ff5e97f6</color>
-    <color name="qs_tile_icon_off_tint_color">#935e97f6</color>
+    <color name="qs_tile_icon_off_tint_color">#665e97f6</color>
     <color name="tw_quick_panel_quick_setting_button_round_bg">#00ffffff</color>
     <color name="status_bar_date_clock_color">#ff5e97f6</color>
     <color name="status_bar_date_color">#ff5e97f6</color>
@@ -125,7 +125,7 @@
     <color name="brightness_controller_seekbar_color_disabled_bg">#64ffffff</color>
     <color name="tw_progress_color_control_disabled_thumb">#93ffffff</color>
     <color name="brightness_controller_seekbar_color_disabled_thumb">#93ffffff</color>
-    <color name="handler_cue_image">#e5ffffff</color>
+    <color name="handler_cue_image">#ff000000</color>
     <color name="tw_quick_panel_quick_sfinder_qconnect_tint_color">#ff5e97f6</color>
     <color name="tw_quick_panel_sfinder_qconnect_button_text_color">#ff5e97f6</color>
     <color name="qs_bottom_area_text_color">#ff5e97f6</color>
