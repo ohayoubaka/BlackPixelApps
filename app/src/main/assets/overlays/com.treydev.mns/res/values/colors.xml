@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="system_primary_color">#ff000000</color>
+	<color name="material_grey_900">#ff5b97f6</color>
+	<color name="notification_shade_background_color">#ff000000</color>
+	<color name="background_material_light">#ff000000</color>
+	<color name="background_floating_material_light">#ff000000</color>
+	<color name="system_primary_color_light">#ff000000</color>
+	<color name="system_sec_color">#ffffffff</color>
+</resources>
