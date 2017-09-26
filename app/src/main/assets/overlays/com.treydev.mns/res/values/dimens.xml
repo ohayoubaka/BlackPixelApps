@@ -3,5 +3,5 @@
 	<dimen name="qs_time_collapsed_size">12.8sp</dimen>
     <dimen name="qs_date_collapsed_size">12.8sp</dimen>
 	<dimen name="qs_tile_text_size">10.8sp</dimen>
-    <dimen name="status_bar_padding_start">16.0dip</dimen>
+	<dimen name="qs_panel_padding">0.0dip</dimen>
 </resources>
