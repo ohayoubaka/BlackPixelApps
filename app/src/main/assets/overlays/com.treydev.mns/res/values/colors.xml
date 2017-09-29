@@ -7,4 +7,6 @@
 	<color name="background_floating_material_light">#ff000000</color>
 	<color name="system_primary_color_light">#ff000000</color>
 	<color name="system_sec_color">#ffffffff</color>
+    <color name="default_remote_input_background">#ff000000</color>
+	<color name="notification_guts_bg_color">#ff000000</color>
 </resources>
