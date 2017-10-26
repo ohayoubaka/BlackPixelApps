@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.treydev.mns.notificationpanel.SplitClockView android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextClock android:textSize="@*com.treydev.mns:dimen/qs_time_collapsed_size" android:id="@*com.treydev.mns:id/time_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:fontFamily="sans-serif-medium" style="@*com.treydev.mns:style/clockExpanded" android:paddingLeft="2.0dip" />
+    <TextClock android:textSize="@*com.treydev.mns:dimen/qs_time_collapsed_size" android:id="@*com.treydev.mns:id/am_pm_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:importantForAccessibility="no" android:fontFamily="sans-serif-medium" style="@*com.treydev.mns:style/clockExpanded" />
+    <TextView android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+</com.treydev.mns.notificationpanel.SplitClockView>
