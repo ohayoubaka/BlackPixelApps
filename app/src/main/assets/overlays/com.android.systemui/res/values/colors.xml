@@ -103,7 +103,7 @@
     <color name="qs_panel_summary_color">#ff4285f4</color>
     <color name="qs_tile_text">#ffffffff</color>
     <color name="quicksetting_ic_arrow">#ff4285f4</color>
-    <color name="qs_tile_secondary_text_color">#ff4285f4</color>
+    <color name="qs_tile_secondary_text_color">#ffffffff</color>
     <color name="qs_tile_divider">#00000000</color>
     <color name="qs_tile_divider_connected">#ff4285f4</color>
     <color name="animated_brightness_icon_color">#ff4285f4</color>
@@ -125,7 +125,7 @@
     <color name="handler_cue_image">#ff000000</color>
     <color name="tw_quick_panel_quick_sfinder_qconnect_tint_color">#ff4285f4</color>
     <color name="tw_quick_panel_sfinder_qconnect_button_text_color">#ff4285f4</color>
-    <color name="qs_bottom_area_text_color">#ff4285f4</color>
+    <color name="qs_bottom_area_text_color">#4dffffff</color>
     <color name="tw_quick_connect_layout_bg">#ff000000</color>
     <color name="qs_bottom_area_background">#ff000000</color>
     <color name="quickpanel_button_divider_color">#ff4285f4</color>
@@ -185,7 +185,7 @@
     <color name="notification_shade_background_color">#ff000000</color>
     <color name="notification_gear_color">#ff4285f4</color>
     <color name="normal_mode_bottom_bar_bg">#ff000000</color>
-    <color name="bottom_bar_button_text_color">#ff4285f4</color>
+    <color name="bottom_bar_button_text_color">#4dffffff</color>
     <color name="bottom_bar_divider_color">#ff000000</color>
     <color name="qs_edit_done_button_color">#ff4285f4</color>
     <color name="light_navigation_bar_background_opaque">#ff000000</color>
@@ -194,9 +194,11 @@
     <color name="running_app_cue_color">#ffffffff</color>
     <color name="context_menu_text_color">#ffffffff</color>
     <color name="notification_guts_title_color">#ffffffff</color>
-    <color name="notification_guts_text_color">#b2ffffff</color>
+    <color name="notification_guts_text_color">#ffffffff</color>
     <color name="tw_ic_audio_sound_icon_muted_color">#ffffffff</color>
     <color name="tw_ic_audio_sound_icon_earshock_color">#ffffffff</color>
+	<color name="tw_ic_audio_sound_icon_color_default">#ffffffff</color>
+	<color name="tw_ic_audio_sound_icon_earshock_color_default">#ffffffff</color>
     <color name="qs_header_setting">#ffffffff</color>
     <color name="qs_header_expand">#ffffffff</color>
     <color name="qs_header_clock">#ffffffff</color>
