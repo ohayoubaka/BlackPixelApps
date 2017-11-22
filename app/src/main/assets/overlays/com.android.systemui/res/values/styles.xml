@@ -5,4 +5,42 @@
         <item name="android:shadowDy">2.0</item>
         <item name="android:shadowRadius">2.0</item>
     </style>
+   <style name="TextAppearance.NotificationInfo" parent="@*com.android.systemui:style/TextAppearance">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="TextAppearance.NotificationInfo.Button" parent="@*com.android.systemui:style/TextAppearance.NotificationInfo">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ff4285f4</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@*com.android.systemui:drawable/btn_borderless_rect</item>
+        <item name="android:focusable">true</item>
+        <item name="android:layout_marginTop">6.0dip</item>
+        <item name="android:layout_marginBottom">6.0dip</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:fontFamily">roboto-medium</item>
+        <item name="android:paddingStart">12.0dip</item>
+        <item name="android:paddingEnd">12.0dip</item>
+    </style>
+    <style name="TextAppearance.NotificationInfo.Header" parent="@*com.android.systemui:style/TextAppearance.NotificationInfo">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#ff8c8c8c</item>
+        <item name="android:fontFamily">sec-roboto-regular</item>
+    </style>
+    <style name="TextAppearance.NotificationInfo.Primary" parent="@*com.android.systemui:style/TextAppearance.NotificationInfo">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:alpha">0.87</item>
+    </style>
+    <style name="TextAppearance.NotificationInfo.Radio" parent="@*com.android.systemui:style/TextAppearance.NotificationInfo">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:fontFamily">sec-roboto-regular</item>
+    </style>
+    <style name="TextAppearance.NotificationInfo.Secondary" parent="@*com.android.systemui:style/TextAppearance.NotificationInfo">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:alpha">0.54</item>
+    </style>
 </resources>
