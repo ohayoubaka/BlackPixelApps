@@ -58,7 +58,7 @@
     <color name="qs_subhead">#ff252525</color>
     <color name="qs_detail_empty">#24b0bec5</color>
     <color name="qs_detail_button_white">#b3ffffff</color>
-    <color name="qs_detail_text_disable">#3b4285f4</color>
+    <color name="qs_detail_text_disable">#3bffffff</color>
     <color name="qs_detail_transition">#66ffffff</color>
     <color name="qs_detail_progress_track">#9a4285f4</color>
     <color name="qs_tile_tint_inactive">#4dffffff</color>
@@ -142,7 +142,7 @@
     <color name="current_user_border_color">#ff4285f4</color>
     <color name="qs_user_detail_activated_frame_color">#ff4285f4</color>
     <color name="qs_user_info_frame_color">#ff4285f4</color>
-    <color name="qs_detail_user_name_text_color">#ff4285f4</color>
+    <color name="qs_detail_user_name_text_color">#ffffffff</color>
     <color name="qs_user_detail_name">#ff4285f4</color>
     <color name="qs_user_detail_icon_muted">#ff4285f4</color>
     <color name="qs_detail_button">#ff4285f4</color>
@@ -155,7 +155,7 @@
     <color name="qs_detail_secondary_text_color">#ffffffff</color>
     <color name="qs_detail_item_active_color">#ff4285f4</color>
     <color name="qs_detail_disable_text_color">#7fffffff</color>
-    <color name="qs_detail_enable_text_color">#ff4285f4</color>
+    <color name="qs_detail_enable_text_color">#ffffffff</color>
     <color name="qs_detail_action_button">#ff4285f4</color>
     <color name="qs_detail_list_divider_color">#ff4285f4</color>
     <color name="qs_detail_item_icon_tint_color_for_opentheme">#ff4285f4</color>
@@ -205,7 +205,7 @@
     <color name="qs_header_expand">#ffffffff</color>
     <color name="qs_header_clock">#ffffffff</color>
     <color name="qs_detail_description_text_color">#ffffffff</color>
-    <color name="qs_detail_hyperlink_text_color">#ff4285f4</color>
+    <color name="qs_detail_hyperlink_text_color">#ffffffff</color>
     <color name="qs_header_date">#ffffffff</color>
     <color name="qs_tile_label">#ffffffff</color>
     <color name="qs_detail_label_color">#ffc8c8c8</color>
